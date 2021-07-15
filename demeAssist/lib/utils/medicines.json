@@ -1,0 +1,6 @@
+medicines : [
+    medicine: {
+        name: '',
+        dos
+    }
+]
